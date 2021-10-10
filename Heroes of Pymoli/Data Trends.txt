@@ -1,1 +1,6 @@
-
+## Three Observable Trends Based on the Data
+    - One trend showcased in the data is that the majority of the players or gamers are male. Because they are the majority of the   
+      players, they are the primary purchasers of optional items. They provide the most purchases based on gender. 
+    - Another trend that is on display is that the majority of the players or those playing the fantasy game "Heroes of Pymoli" are 
+      between 20 to 24. In their age demographic, they provide more purchases than any other age group. 
+    - In conclusion, in the fantasy game "Heroes of Pymoli" the majority of purchases were made by young adult males. 
