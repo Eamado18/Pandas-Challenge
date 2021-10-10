@@ -3,4 +3,5 @@
       players, they are the primary purchasers of optional items. They provide the most purchases based on gender. 
     - Another trend that is on display is that the majority of the players or those playing the fantasy game "Heroes of Pymoli" are 
       between 20 to 24. In their age demographic, they provide more purchases than any other age group. 
-    - In conclusion, in the fantasy game "Heroes of Pymoli" the majority of purchases were made by young adult males. 
+    - In conclusion, in the fantasy game "Heroes of Pymoli" the majority of purchases were made by young adult males and are the majority  
+      of participants.
